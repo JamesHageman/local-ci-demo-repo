@@ -7,6 +7,6 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
 });
 
-it('fails!', () => {
-  throw new Error('too bad :(')
-});
+// it('fails!', () => {
+//   throw new Error('too bad :(')
+// });
